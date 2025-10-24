@@ -4,7 +4,7 @@ A modern, real-time voting application built with React, Node.js, and WebSockets
 
 ## 🚀 Live Demo
 
-[https://real-time-voting-app-beta.vercel.app/](https://real-time-voting-app-beta.vercel.app/)
+[https://](https:///)
 
 ## ✨ Features
 
